@@ -1,6 +1,6 @@
 -   Hi, I’m @BorisBarrera, 
 -   I'm dev
--   I’m currently learning .Net Core and PHP
+-   I’m currently learning .Net Core and JavaScript
 -   I’m looking to collaborate on open source
 
 <!---
